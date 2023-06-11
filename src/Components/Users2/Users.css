@@ -1,0 +1,45 @@
+.Users {
+    height: 90%;
+    width: 100%;
+    padding: 1.5rem;
+}
+
+.Users h2 {
+    margin: 1rem 0;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.Users input {
+    margin: 1rem;
+}
+
+.Users table {
+    margin: 1rem 0;
+
+
+}
+
+table,
+th,
+td {
+    border: none;
+
+}
+
+th {
+    background-color: rgb(30, 30, 30);
+    color: white;
+    border: 1px solid rgb(30, 30, 30);
+    padding: .7rem 0;
+    text-align: start;
+    padding-left: .5rem;
+}
+
+td {
+    padding: .5rem 0;
+    padding-left: .5rem;
+    font-size: 1.1rem;
+    color: rgb(68, 68, 68);
+
+}
